@@ -3,4 +3,4 @@
 Introduction
 ## Steps of Running Code
 
-##### Git clone from [here] (https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team3)
+##### Git clone from [here ] (https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team3).
