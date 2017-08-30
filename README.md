@@ -1,2 +1,3 @@
-# AICity_Team3
-The is no need for any dependencies
+Information Technologies - Institute Centre for Research and Technologh Hellas (CERTH)
+
+Introduction
