@@ -3,5 +3,5 @@
 Introduction
 ## Steps of Running Code
 
- //This site was built using [GitHub Pages](https://pages.github.com/)
- Git clone from [ here ](https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team3).
+###Git clone our Application
+ Git clone our repository from [ here ](https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team3).
