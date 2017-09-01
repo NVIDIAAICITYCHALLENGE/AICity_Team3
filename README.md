@@ -1,6 +1,7 @@
 # Information Technologies Institute - Centre for Research and Technologh Hellas (CERTH)
 
-Introduction
+## Introduction
+We present a real-time traffic management system for narrow roads that utilizes RGB cameras.The system is able to detect and recognize any large vehicles trying to cross narrow roads and control the traffic accordingly. The system is based on adaptive methodologies so that it can adjust to changing conditions of lighting.Moreover,a calibration technique combined with a fine tuning procedure overcome the limitations of a predefined camera setting. The goal is a system that optimizes the flow at the roads under monitoring with the use of traffic lights or VMS (variable-message signs). To our knowledge, there are no similar systems aiming at real time traffic management of narrow roads.For more information please refer to our [paper](https://github.com/NVIDIAAICITYCHALLENGE/AICity_Team3/blob/master/Large%20Vehicle%20Recognition%20and%20Classification%20for%20Traffic%20Management%20and%20Flow%20optimization%20for%20Narrow%20Roads.pdf)
 ## Steps of Running Code
 
 ### 1. Git clone our Application
