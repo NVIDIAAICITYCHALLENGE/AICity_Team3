@@ -15,4 +15,4 @@ The dataset consists of 198 frames (960x540 resolution).There is no limitation i
 This version is available only for Linux OS.There are no prerequisites for running our application as it is packed with all the required libraries.
 ### 4. Running the application
 To run our application:
-In the Traffic_Control folder just run testgui executable.From the graphic user interface you can select to load the sample/yours dataset and run the application
+In the Traffic_Control folder just run testgui executable.From the graphic user interface you can select to load the sample/yours dataset ,train, set your parameters and finally run the application.
