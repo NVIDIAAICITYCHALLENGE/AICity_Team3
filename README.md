@@ -19,4 +19,4 @@ In the Traffic_Control folder just run testgui executable.From the graphic user 
 ### 5.License
  This application was developped for research purposes in Information and Technologies Institute Hellas.If you are using for any purpose the application provided here in a publication or in your project, please cite our paper.
  
- Feel free to contact us by e-mail expressing your comments and/or questions at dtriantafyllou@iti.gr
+ Feel free to contact us by e-mail expressing your comments and/or questions at dtriant@iti.gr and kotoulas@iti.gr
