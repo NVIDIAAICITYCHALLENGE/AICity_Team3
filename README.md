@@ -17,6 +17,6 @@ This version is available only for Linux OS.There are no prerequisites for runni
 To run our application:
 In the Traffic_Control folder just run testgui executable.From the graphic user interface you can select to load the sample/yours dataset ,train, set your parameters and finally run the application.
 ### 5.License
- This application was developped for research purposes in Information and Technologies Institute Hellas.If you are using for any purpose the application provided here in a publication, please cite our paper.
+ This application was developped for research purposes in Information and Technologies Institute Hellas.If you are using for any purpose the application provided here in a publication or in your project, please cite our paper.
  
  Feel free to contact us by e-mail expressing your comments and/or questions at dtriantafyllou@iti.gr
